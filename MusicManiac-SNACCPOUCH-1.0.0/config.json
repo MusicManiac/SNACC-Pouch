@@ -1,0 +1,18 @@
+{
+    "money_price": 1726839,
+    "money_loyalty_level": 4,
+
+    "barter_purewater": 1,
+    "barter_vodka": 4,
+    "barter_moonshine": 2,
+    "barter_ratcola": 1,
+    "barter_kvass": 4,
+    "barter_aquamari": 4,
+    "barter_whiskey": 3,
+    "barter_waterration": 10,
+    "barter_loyalty_level": 3,
+
+    "columns": [
+        {"cellH": 6, "cellV": 6}
+    ]
+}

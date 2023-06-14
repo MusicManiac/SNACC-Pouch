@@ -1,0 +1,23 @@
+There are two ways to gain the snacc container from jaeger,
+
+The first is a barter for money
+The second is a barter for various items
+
+{
+    "money_price": 1726839, - Money in Roubles
+    "money_loyalty_level": 4, - LL for Money Barter
+
+    "barter_purewater": 1, - Purified Water needed
+    "barter_vodka": 4, - Vodka needed
+    "barter_moonshine": 2, - Moonshine needed
+    "barter_ratcola": 1, - Rat Cola needed
+    "barter_kvass": 4, - Kvass Water needed 
+    "barter_aquamari": 4, - Aquamari Water needed 
+    "barter_whiskey": 3, - Whiskey needed
+    "barter_waterration": 10, - Emergency Water Rations needed
+    "barter_loyalty_level": 3, - LL for Items Barter
+
+    "columns": [
+        {"cellH": 5, "cellV": 5} - Size of container 
+    ]
+}
